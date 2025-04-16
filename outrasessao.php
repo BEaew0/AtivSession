@@ -24,7 +24,7 @@ else{
         <label for="Senha">Senha</label>
         <input type="text" name="Senha" maxlength="40"><br>
 
-        <label for="ConfSenha">Confirmar Senha</label>
+        <label for="ConfSenha">Confirma23r Senha</label>
         <input type="text" name="ConfSenha" maxlength="10"><br>
 
         <input type="submit" name="enviar" value="Enviar">
